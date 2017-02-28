@@ -13,7 +13,7 @@ var methodOverride = require('method-override'); // simulate DELETE and PUT (exp
 
 // configuration =================
 
-mongoose.connect('mongodb://piiamiia:todoapp@olympia.modulusmongo.net:27017/Or6umiru');     // Can connect to the DB with username: piiamiia, password: todoapp
+mongoose.connect('mongodb://piiamiia:todoapp@olympia.modulusmongo.net:27017/e2wosymI');     // Can connect to the DB with username: piiamiia, password: todoapp
 
 app.use(express.static(__dirname + '/public'));                 // set the static files location /public/img will be /img for users
 app.use(morgan('dev'));                                         // log every request to the console
