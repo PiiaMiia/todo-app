@@ -13,6 +13,12 @@
     "mongoose"       : "^4.4.12",
     "morgan"         : "^1.1.1"
   },
+
+  "repository"   : {
+    "type"           : "git",
+    "url"            : "https://github.com/piiamiia/todo-app.git"
+  },
+
   "engines"      : {
     "node"           : "0.10.x"
   }
