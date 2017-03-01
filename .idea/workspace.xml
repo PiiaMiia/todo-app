@@ -34,8 +34,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="528">
+              <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -254,7 +254,7 @@
       <workItem from="1488271561045" duration="6170000" />
       <workItem from="1488281639541" duration="6881000" />
       <workItem from="1488289175027" duration="782000" />
-      <workItem from="1488289977228" duration="3663000" />
+      <workItem from="1488289977228" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1488277089388</created>
@@ -340,11 +340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488295343727</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Specified the node &amp; npm version">
+      <created>1488354514243</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1488354514243</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17496000" />
+    <option name="totallyTimeSpent" value="17629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -381,7 +388,8 @@
     <MESSAGE value="Ready to deploy in Modulus" />
     <MESSAGE value="Update node version" />
     <MESSAGE value="trying to include mongoDB to pass the test" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to include mongoDB to pass the test" />
+    <MESSAGE value="Specified the node &amp; npm version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Specified the node &amp; npm version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -557,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="528">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
       </provider>
